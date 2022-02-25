@@ -2,31 +2,21 @@
 <h3 align="center">I'm a Henry's Full Stack Developer🌟.</h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **dricardelo@gmail.com**
 
 - ⚡ Fun fact :- food and Brandon Sanderson's books are the reasons to live.
 
-<br>
+## Tech Skills
+<img align="center" src="./assets/Technologies.png"/>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/david-de-la-hoz/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-</p>
+## Projects
 
-<br>
+---
+### Videogames Library
+<img align="center" src="./assets/Mi video.gif">
 
-<h3 align="left">Tech Skills:</h3>
-<p align="center" padding-top='15px'>
-<img width = 30% align="left" src="./assets/Technologies.png"/>
-</p>
-<br>
-##
-<img src="./assets/Mi video.gif">
+#### Repository link [here](https://github.com/Daviddlh1/Videogames-library-app)
 
