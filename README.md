@@ -28,8 +28,8 @@
 </p>
 <br>
  ---
- <br>
- ## Projects
+## Projects
 
+### Videogames Library
 <img align="center" src="./assets/Mi video.gif">
 
