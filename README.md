@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm David De la Hoz</h1>
 <h3 align="center">I'm a Henry's Full Stack Developer🌟.</h3>
----
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
