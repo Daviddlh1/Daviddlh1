@@ -30,6 +30,6 @@
  ---
  <br>
  ## Projects
- ---
-<img src="./assets/Mi video.gif">
+
+<img align="center" src="./assets/Mi video.gif">
 
