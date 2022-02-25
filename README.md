@@ -10,8 +10,11 @@
 
 ## Tech Skills
 <img align="center" src="./assets/Technologies.png"/>
+---
+
 ## Projects
 
+---
 ### Videogames Library
 <img align="center" src="./assets/Mi video.gif">
 
