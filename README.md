@@ -28,8 +28,8 @@
 </p>
 <br>
  ---
- 
+ <br>
  ## Projects
- 
+ ---
 <img src="./assets/Mi video.gif">
 
