@@ -27,6 +27,9 @@
 <img width = 30% align="left" src="./assets/Technologies.png"/>
 </p>
 <br>
-
+ ---
+ 
+ ## Projects
+ 
 <img src="./assets/Mi video.gif">
 
