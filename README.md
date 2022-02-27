@@ -20,3 +20,10 @@
 
 #### Repository link [here](https://github.com/Daviddlh1/Videogames-library-app)
 
+### Netflix Clone
+<img align="center" src="./assets/Netflix-clone.gif">
+
+#### Repository link [here](https://github.com/Daviddlh1/Netflix-clone)
+---
+#### Deployed ptoject [here](https://netflix-clone-19504.web.app/)
+
