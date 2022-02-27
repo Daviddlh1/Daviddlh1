@@ -21,7 +21,7 @@
 #### Repository link [here](https://github.com/Daviddlh1/Videogames-library-app)
 
 ### Netflix Clone
-<img align="center" src="./assets/netflix-clone.gif">
+<img align="center" src="./assets/Netflix-clone.gif">
 
 #### Repository link [here](https://github.com/Daviddlh1/Netflix-clone)
 ---
