@@ -40,3 +40,19 @@
 ---
 
 ### Deployed link [here](https://daviddlh1.github.io/Pokedex/)
+
+# Functions:
+
+- Search pokemons by id(1-898).
+- Shows the description reads it out loud.
+- Shows a chart of the pokemon's stats.
+- Shows different angles and shiny versions clicking on the up and down buttons of the cross.
+- Shows the next and previous pokemon clicking on the right and left buttons of the cross.
+- Show a random pokemon.
+
+# What did I learn?
+
+- I learned how to use chart.js to build radar charts.
+- Practiced my animation skills with CSS.
+- I learned how to use logical properties and values.
+- Practiced how to consume an API width vanilla JavaScript.
