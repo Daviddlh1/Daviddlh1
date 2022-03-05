@@ -41,7 +41,7 @@
 
 ### Deployed link [here](https://daviddlh1.github.io/Pokedex/)
 
-# Functions:
+#### Functions:
 
 - Search pokemons by id(1-898).
 - Shows the description reads it out loud.
@@ -50,7 +50,7 @@
 - Shows the next and previous pokemon clicking on the right and left buttons of the cross.
 - Show a random pokemon.
 
-# What did I learn?
+#### What did I learn?
 
 - I learned how to use chart.js to build radar charts.
 - Practiced my animation skills with CSS.
