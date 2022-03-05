@@ -34,6 +34,10 @@ This is my first SPA using my entire stack PostgreSQL and Sequelize for database
 - Has a controlled form to create new video games in the data base
 - Has a Pagination.
 
+#### What did I learn?
+
+I practice with the entire stack I've been learning for a about a year ago and react-redux hooks.
+
 ### Netflix Clone
 
 <img align="center" src="./assets/Netflix-clone.gif">
