@@ -36,7 +36,7 @@ This is my first SPA using my entire stack PostgreSQL and Sequelize for database
 
 #### What did I learn?
 
-I practice with the entire stack I've been learning for a about a year ago and react-redux hooks.
+I practiced with the entire stack I've been learning for a about a year ago and react-redux hooks.
 
 ### Netflix Clone
 
