@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dricardelo@gmail.com**
 
-- ⚡ Fun fact :- food and Brandon Sanderson's books are the reasons to live.
+- ⚡ Fun fact: food and Brandon Sanderson's books are the reasons to live.
 - 👷‍♂️ Next projects: personal portfolio and maybe a personal blog.
 
 ## Tech Skills
